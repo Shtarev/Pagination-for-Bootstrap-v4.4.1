@@ -3,7 +3,7 @@
 * Pagination for Bootstrap v4.4.1
 * $Pagination = new Pagination(quantity of content, quantity of buttons, 'MySql-request');
 * $Pagination->inhalt; // content array
-* Pagination->pagipunct(); // pagination buttons
+* $Pagination->pagipunct(); // pagination buttons
 */
 
 class Pagination
